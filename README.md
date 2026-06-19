@@ -99,7 +99,7 @@ belajarin_aja_yuk/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/belajarin_aja_yuk.git
+git clone https://github.com/fernandozicofarelli/belajarin_aja_yuk.git
 ```
 
 ### Navigate to Project Folder
@@ -124,21 +124,21 @@ flutter run
 
 ## 📱 Screenshots
 
-### Login Page
+### Icon Page
 
-![Login](docs/screenshots/login.png)
+![Icon](docs/screenshots/app_icon)
 
-### Home Page
+### introducing
 
-![Home](docs/screenshots/home.png)
+![intro](docs/screenshots/pict1.png)
 
-### Course Page
+### Quiz Page
 
-![Course](docs/screenshots/course.png)
+![Quiz](docs/screenshots/Quiz.png)
 
-### AI Assistant
+### Matei
 
-![AI Assistant](docs/screenshots/chatbot.png)
+![Materi](docs/screenshots/vidio materi.png)
 
 ---
 
@@ -188,7 +188,7 @@ Information Systems Student at Universitas MH Thamrin Jakarta
 ### Connect With Me
 
 - GitHub: https://github.com/fernanozicofarelli
-- LinkedIn: https://linkedin.com/in/Fernando zico farelli
+- LinkedIn: linkedin.com/in/fernando-zico-farelli-16b286324
 
 ---
 
