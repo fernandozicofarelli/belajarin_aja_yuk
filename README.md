@@ -126,19 +126,22 @@ flutter run
 
 ### Icon Page
 
-![Icon](docs/screenshots/app_icon)
+![Icon](docs/screenshots/app_icon.png)
 
 ### introducing
 
-![intro](docs/screenshots/pict1.png)
+![intro](docs/screenshots/pict_1.png)
 
 ### Quiz Page
 
 ![Quiz](docs/screenshots/Quiz.png)
 
-### Matei
+### Materi
 
-![Materi](docs/screenshots/vidio materi.png)
+![Materi](docs/screenshots/vidio_materi.png)
+
+### Ai 
+![AI](docs/screenshots/Ai.png)
 
 ---
 
