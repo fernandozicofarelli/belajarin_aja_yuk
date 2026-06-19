@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "844286991467",
+    "project_id": "belajarin-2121",
+    "storage_bucket": "belajarin-2121.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844286991467:android:1ef72299a3c943b823252e",
+        "android_client_info": {
+          "package_name": "com.belajar.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844286991467-r584g72fl61runrv2leiamob8j712eff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTIX3kJMxACKnS4dpMktqX3REzkoC6vwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844286991467-r584g72fl61runrv2leiamob8j712eff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

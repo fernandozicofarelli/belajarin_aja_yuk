@@ -1,0 +1,169 @@
+{
+  "mata_pelajaran": [
+    {
+      "nama": "Matematika",
+      "materi": [
+        {
+          "id": "mat1",
+          "judul": "Perkalian Dasar",
+          "videoUrl": "https://youtu.be/rXeG4gkYfsY?si=zNF61ho25pPgJJMN",
+          "pdfUrl": "https://www.ulm.edu.pk/departments/admin/upload/downloads/202110030921.pdf",
+          "channel": "TIPS MATEMATIKA CEPAT",
+          "ringkasan": "Video dari channel *TIPS MATEMATIKA CEPAT* menjelaskan teknik perkalian bersusun dengan cepat menggunakan strategi efisien untuk SD, sehingga mempercepat proses hitung tanpa menghafal tabel perkalian.",
+          "kuis": [
+            { "soal": "Hasil dari 6 × 3 adalah ...", "opsi": ["12", "15", "18"], "jawaban": "18" },
+            { "soal": "Hasil dari 7 × 5 adalah ...", "opsi": ["30", "35", "40"], "jawaban": "35" },
+            { "soal": "Hasil dari 9 × 2 adalah ...", "opsi": ["18", "21", "16"], "jawaban": "18" },
+            { "soal": "Hasil dari 8 × 4 adalah ...", "opsi": ["32", "36", "28"], "jawaban": "32" },
+            { "soal": "Hasil dari 3 × 3 adalah ...", "opsi": ["6", "9", "12"], "jawaban": "9" }
+          ]
+        },
+        {
+          "id": "mat2",
+          "judul": "Pembagian Dasar",
+          "videoUrl": "https://youtu.be/UbRxLX-0XQU?si=owBgGeS02T8yHAUX",
+          "pdfUrl": "https://www.ulm.edu.pk/departments/admin/upload/downloads/202110030921.pdf",
+          "channel": "Zulwan Belajar",
+          "ringkasan": "Video oleh *Zulwan Belajar* memperkenalkan metode pembagian bersusun (porogapit) secara langkah-demi-langkah, memberi contoh soal nyata agar mudah dipahami siswa SD.",
+          "kuis": [
+            { "soal": "Hasil dari 10 ÷ 2 adalah ...", "opsi": ["4", "5", "6"], "jawaban": "5" },
+            { "soal": "Hasil dari 12 ÷ 3 adalah ...", "opsi": ["4", "3", "6"], "jawaban": "4" },
+            { "soal": "Hasil dari 16 ÷ 4 adalah ...", "opsi": ["2", "4", "5"], "jawaban": "4" },
+            { "soal": "Hasil dari 9 ÷ 3 adalah ...", "opsi": ["2", "3", "4"], "jawaban": "3" },
+            { "soal": "Hasil dari 8 ÷ 2 adalah ...", "opsi": ["2", "3", "4"], "jawaban": "4" }
+          ]
+        }
+      ]
+    },
+    {
+      "nama": "Bahasa Indonesia",
+      "materi": [
+        {
+          "id": "bi1",
+          "judul": "Teks Narasi",
+          "videoUrl": "https://youtu.be/CfhmEyvUKTo?si=PyedH1XUb_ZMhiZh",
+          "pdfUrl": "chrome-extension://kdpelmjpfafjppnhbloffcjpeomlnpah/https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/k13/bukusiswa/B%20Indonesia%20Kelas%20XI%20BS%20press.pdf",
+          "channel": "KejarCita",
+          "ringkasan": "Di channel *KejarCita*, video ini menjelaskan struktur teks narasi — orientasi, komplikasi, dan resolusi — serta ciri khasnya yang menceritakan rangkaian peristiwa.",
+          "kuis": [
+            { "soal": "Apa itu teks narasi?", "opsi": ["Teks yang menjelaskan proses", "Teks yang bercerita", "Teks yang memaparkan data"], "jawaban": "Teks yang bercerita" },
+            { "soal": "Ciri utama teks narasi adalah ...", "opsi": ["Berisi argumen", "Berisi alur cerita", "Berisi data"], "jawaban": "Berisi alur cerita" },
+            { "soal": "Struktur teks narasi dimulai dengan ...", "opsi": ["Komplikasi", "Resolusi", "Orientasi"], "jawaban": "Orientasi" },
+            { "soal": "Tokoh utama dalam teks narasi disebut ...", "opsi": ["Figuran", "Antagonis", "Protagonis"], "jawaban": "Protagonis" },
+            { "soal": "Teks narasi biasanya ditulis untuk tujuan ...", "opsi": ["Menghibur", "Memberi perintah", "Menjelaskan"], "jawaban": "Menghibur" }
+          ]
+        }
+      ]
+    },
+    {
+      "nama": "IPA",
+      "materi": [
+        {
+          "id": "ipa1",
+          "judul": "Sistem Pernapasan Manusia",
+          "videoUrl": "https://youtu.be/AKW3Zen8DD4?si=IdRwX6MPTI8Ej_wF",
+          "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+          "channel": "Geniora – SayaBisa",
+          "ringkasan": "Channel *Geniora – SayaBisa* menyajikan animasi sistem pernapasan manusia, menjelaskan organ seperti hidung, trakea, paru‑paru, diafragma, serta alur aliran oksigen dari hirupan hingga pertukaran di alveolus.",
+          "kuis": [
+            { "soal": "Organ utama dalam pernapasan manusia adalah ...", "opsi": ["Hidung", "Jantung", "Paru-paru"], "jawaban": "Paru-paru" },
+            { "soal": "Udara masuk ke paru-paru melalui ...", "opsi": ["Kerongkongan", "Trakea", "Lambung"], "jawaban": "Trakea" },
+            { "soal": "Pertukaran oksigen dan karbon dioksida terjadi di ...", "opsi": ["Bronkus", "Alveolus", "Hidung"], "jawaban": "Alveolus" },
+            { "soal": "Otot yang membantu proses pernapasan adalah ...", "opsi": ["Otot dada", "Otot diafragma", "Otot kaki"], "jawaban": "Otot diafragma" },
+            { "soal": "Proses menghirup udara disebut ...", "opsi": ["Ekspirasi", "Inspirasi", "Respirasi"], "jawaban": "Inspirasi" }
+          ]
+        }
+      ]
+    },
+    {
+      "nama": "Bahasa Inggris",
+      "materi": [
+        {
+          "id": "bing1",
+          "judul": "Simple Present Tense",
+          "videoUrl": "https://www.youtube.com/watch?v=wJgkG-mBdaQ",
+          "pdfUrl": "https://youtu.be/nvVdIJ0las0?si=b4Kt4XRlEB76OxyA",
+         "channel": "Ellii (formerly ESL Library)",
+          "ringkasan": "Video dari channel *Ellii* menjelaskan Simple Present Tense sebagai pola tense yang digunakan untuk kebiasaan, fakta umum, jadwal rutin, dan instruksi. Mencakup: penggunaan bentuk dasar verb, penambahan ‑s/es untuk he/she/it, serta cara negatif dan interogatif dengan 'do/does'. :contentReference[oaicite:1]{index=1}",
+          "kuis": [
+            { "soal": "Kalimat 'She plays piano' menggunakan tense ...", "opsi": ["Present Continuous", "Simple Past", "Simple Present"], "jawaban": "Simple Present" },
+            { "soal": "Kata kerja dalam simple present untuk 'he/she/it' biasanya ditambah ...", "opsi": ["ed", "ing", "s/es"], "jawaban": "s/es" },
+            { "soal": "Simple present tense digunakan untuk ...", "opsi": ["Kebiasaan", "Kejadian lampau", "Kegiatan masa depan"], "jawaban": "Kebiasaan" },
+            { "soal": "Kalimat negatif simple present menggunakan kata bantu ...", "opsi": ["do/does not", "did not", "will not"], "jawaban": "do/does not" },
+            { "soal": "'I ____ coffee every morning.' Pilih jawaban yang tepat.", "opsi": ["drink", "drinks", "drank"], "jawaban": "drink" }
+          ]
+        }
+      ]
+    },
+    {
+      "nama": "Computer Science",
+      "materi": [
+        {
+          "id": "cs1",
+          "judul": "Apa itu Algoritma?",
+          "videoUrl": "https://www.youtube.com/watch?v=6hfOvs8pY1k",
+          "pdfUrl": "https://www.mta.ca/~rrosebru/oldcourse/263114/Dsa.pdf",
+          "channel": "TED‑Ed (David J. Malan)",
+          "ringkasan": "Dalam video TED‑Ed oleh David J. Malan, algoritma dijelaskan sebagai rangkaian instruksi langkah demi langkah untuk menyelesaikan masalah—baik untuk manusia maupun komputer.",
+          "kuis": [
+            { "soal": "Apa itu algoritma?", "opsi": ["Bahasa pemrograman", "Langkah logis menyelesaikan masalah", "Perangkat keras"], "jawaban": "Langkah logis menyelesaikan masalah" },
+            { "soal": "Algoritma digunakan untuk ...", "opsi": ["Menggambar", "Menyelesaikan masalah", "Mengisi daya baterai"], "jawaban": "Menyelesaikan masalah" },
+            { "soal": "Langkah pertama dalam membuat algoritma adalah ...", "opsi": ["Menulis kode", "Memahami masalah", "Menginstal software"], "jawaban": "Memahami masalah" },
+            { "soal": "Contoh representasi algoritma adalah ...", "opsi": ["Foto", "Flowchart", "Lagu"], "jawaban": "Flowchart" },
+            { "soal": "Algoritma yang tidak pernah berhenti disebut ...", "opsi": ["Efisien", "Looping", "Tak hingga"], "jawaban": "Tak hingga" }
+          ]
+        },
+        {
+          "id": "cs2",
+          "judul": "Struktur Data: Array",
+          "videoUrl": "https://youtu.be/E_IplykMZH0?si=CSAcHdTIoF97DI2w",
+          "pdfUrl": "https://www.mta.ca/~rrosebru/oldcourse/263114/Dsa.pdf",
+          "channel": "ARRAY pada Programming",
+          "ringkasan": "Channel *ARRAY pada Programming* mengenalkan array sebagai struktur data yang menyimpan elemen berurutan, dapat diakses via indeks—misalnya array nama teman di program.",
+          "kuis": [
+            { "soal": "Apa itu array?", "opsi": ["Sistem operasi", "Struktur data", "Algoritma sorting"], "jawaban": "Struktur data" },
+            { "soal": "Index pertama dalam array dimulai dari ...", "opsi": ["0", "1", "2"], "jawaban": "0" },
+            { "soal": "Array digunakan untuk ...", "opsi": ["Menyimpan satu nilai", "Menyimpan banyak nilai", "Menampilkan grafik"], "jawaban": "Menyimpan banyak nilai" },
+            { "soal": "Array bersifat ...", "opsi": ["Acak", "Berurutan", "Statistik"], "jawaban": "Berurutan" },
+            { "soal": "Array dalam bahasa pemrograman Java ditulis dengan simbol ...", "opsi": ["{}", "()", "[]"], "jawaban": "[]" }
+          ]
+        }
+      ]
+    },
+    {
+      "nama": "Cyber Security",
+      "materi": [
+        {
+          "id": "cyber1",
+          "judul": "Pengenalan Cyber Security",
+          "videoUrl": "https://www.youtube.com/watch?v=inWWhr5tnEA",
+          "pdfUrl": "https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf",
+          "channel": "Cyber Security In 7 Minutes",
+          "ringkasan": "Channel *Cyber Security In 7 Minutes* memperkenalkan cybersecurity sebagai praktik melindungi sistem dan data dari ancaman digital seperti malware, phishing, dan DDoS.",
+          "kuis": [
+            { "soal": "Apa itu Cyber Security?", "opsi": ["Ilmu jaringan komputer", "Perlindungan terhadap serangan digital", "Hacking"], "jawaban": "Perlindungan terhadap serangan digital" },
+            { "soal": "Tujuan utama Cyber Security adalah ...", "opsi": ["Mengembangkan software", "Menjaga keamanan data", "Mempercepat koneksi"], "jawaban": "Menjaga keamanan data" },
+            { "soal": "Cyber security mencegah ...", "opsi": ["Pemadaman listrik", "Serangan siber", "Cuaca buruk"], "jawaban": "Serangan siber" },
+            { "soal": "Contoh tools Cyber Security adalah ...", "opsi": ["Photoshop", "Firewall", "Excel"], "jawaban": "Firewall" },
+            { "soal": "Perusahaan perlu Cyber Security untuk ...", "opsi": ["Membuat desain", "Melindungi informasi pelanggan", "Membeli perangkat"], "jawaban": "Melindungi informasi pelanggan" }
+          ]
+        },
+        {
+          "id": "cyber2",
+          "judul": "Jenis-Jenis Serangan Siber",
+          "videoUrl": "https://youtu.be/W09cfc3Fl1Q?si=ooQ8LoYR3qIo3TCT",
+          "pdfUrl": "https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf",
+           "channel": "Doddy Ferdiansyah",
+          "ringkasan": "Di channel *Doddy Ferdiansyah*, video ini membahas 7 jenis serangan Denial‑of‑Service (DoS/DDoS), termasuk serangan berbasis trafik (volumetric), protokol, aplikasi, serta metode seperti SYN flood, UDP flood, HTTP flood, dan lainnya. Setiap jenis disertai contoh nyata dan rekomendasi mitigasi dasar seperti memperkuat konfigurasi server dan menggunakan layanan proteksi DoS.",
+          "kuis": [
+            { "soal": "Contoh serangan siber adalah ...", "opsi": ["Firewall", "Phishing", "Antivirus"], "jawaban": "Phishing" },
+            { "soal": "Malware adalah jenis ...", "opsi": ["Software keamanan", "Perangkat lunak berbahaya", "Antivirus"], "jawaban": "Perangkat lunak berbahaya" },
+            { "soal": "DDoS adalah serangan terhadap ...", "opsi": ["Satu komputer", "Server dengan lalu lintas besar", "Perangkat keras"], "jawaban": "Server dengan lalu lintas besar" },
+            { "soal": "Phishing biasanya dilakukan lewat ...", "opsi": ["Email palsu", "Firewall", "Proyek open source"], "jawaban": "Email palsu" },
+            { "soal": "Tujuan serangan siber adalah untuk ...", "opsi": ["Melindungi data", "Mengambil atau merusak data", "Mempercepat sistem"], "jawaban": "Mengambil atau merusak data" }
+          ]
+        }
+      ]
+    }
+  ]
+}
